@@ -12,6 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-BOARD_VENDOR := sony
+BOARD_VENDOR := lbsony
 BOARD_RECOVERY_SWIPE := true
 TARGET_NO_SEPARATE_RECOVERY := true
